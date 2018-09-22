@@ -1,6 +1,7 @@
 # math-as-code
 
 >[Chinese translation (中文版)](./README-zh.md)
+>[Spanish Translation (En Español)](./README-es.md)
 
 This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
